@@ -14,8 +14,8 @@ Challenge (technical test) for a Marketing Agency.
     
 ### DEMO FORMPHP
 
-[![Screenshot FormPHP](https://i.gyazo.com/9865b42ae701933720071e5eaff265cb.gif)](https://gyazo.com/9865b42ae701933720071e5eaff265cb)
+[![Screenshot FormPHP](https://i.gyazo.com/9865b42ae701933720071e5eaff265cb.gif)]
 
 ### DEMO NEWSLETTER
 
-[![Screenshot Newsletter](https://i.gyazo.com/b43dd9930f1f65a6d7673b53789cd370.gif)](https://gyazo.com/b43dd9930f1f65a6d7673b53789cd370)
+[![Screenshot Newsletter](https://i.gyazo.com/b43dd9930f1f65a6d7673b53789cd370.gif)]
