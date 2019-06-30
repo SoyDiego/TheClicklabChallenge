@@ -1,0 +1,42 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html{
+    height: 100%;
+}
+
+
+body {
+	background-color: #0f111a;
+	color: white !important;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100%;
+}
+
+hr{
+	margin-top: 0px !important;
+	margin-bottom: 15px !important;
+	border-top: 5px solid #1EAEDB !important;
+	width: 15% !important;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+.row{
+	margin-top: 20px;
+}
+
+.columns{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
