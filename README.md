@@ -16,6 +16,8 @@ Challenge (technical test) for a Marketing Agency.
 
 [![Screenshot FormPHP](https://i.gyazo.com/9865b42ae701933720071e5eaff265cb.gif)]
 
-### DEMO NEWSLETTER
+### DEMO NEWSLETTER & NEWSLETTER RESPONSIVE
 
-[![Screenshot Newsletter](https://i.gyazo.com/b43dd9930f1f65a6d7673b53789cd370.gif)]
+[![Screenshot Newsletter](https://i.gyazo.com/7079d01e56f5e26af5cafdf9d699eddc.gif)](http://gyazo.com/7079d01e56f5e26af5cafdf9d699eddc)
+
+[![Screenshot Newsletter](https://i.gyazo.com/397459afb21cd3d453e796491b35c4cc.gif)](https://gyazo.com/397459afb21cd3d453e796491b35c4cc)
