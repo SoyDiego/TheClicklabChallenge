@@ -8,7 +8,7 @@ Challenge (technical test) for a Marketing Agency.
 	* Verify that the fields are not empty.  
 	* Create 4 different variables to store the values.  
 	
- - Design a newsletter based on a PSD file:  
+ - Design a newsletter based on a [PSD file](https://github.com/SoyDiego/TheClicklabChallenge/raw/master/Newsletter.psd):  
  	A) Create a Responsive Newsletter.  
     B) The font to use is `PT Sans`.  
     
